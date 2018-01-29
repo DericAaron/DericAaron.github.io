@@ -12,9 +12,11 @@ h1 {
   background-color: lightblue;
   color: black;
   text-align: left; 
+  font: Palatino, serif; 
 }
 h2 {
   background-color: lightblue;
+  font: Palatino, serif; 
 }
 h4 {
   margin-bottom: 5px;
