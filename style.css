@@ -25,3 +25,8 @@ h4 {
 p {
   margin: 5px;
 }
+.namePhoto {
+  position: absolute;
+  top: 5px;
+  right: 5px
+}
