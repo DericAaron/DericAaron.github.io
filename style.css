@@ -1,7 +1,8 @@
 body {
-  background-color: lightyellow;
+  
   margin: auto;
   width: 50%;
+  background-color: lightyellow;
   border: 3px solid black;
   padding: 10px;
 }
