@@ -2,7 +2,7 @@ body {
   
   margin: auto;
   width: 50%;
-  background-color: lightgrey;
+  background-color: white;
   border: 3px solid black;
   padding: 10px;
 }
@@ -12,13 +12,13 @@ h1 {
   text-align: left; 
   font: Palatino, serif; 
   margin-bottom: 5px;
-  bottom-border: 2px solid black;
+  bottom-border: 3px solid black;
 }
 h2 {
   background-color: lightblue;
   font: Palatino, serif; 
   margin-bottom: 5px;
-  bottom-border: 2px solid black;
+  bottom-border: 3px solid black;
 }
 h4 {
   margin-bottom: 5px;
