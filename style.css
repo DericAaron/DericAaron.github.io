@@ -1,11 +1,10 @@
 body {
   margin: auto;
   width: 50%;
-  background-color: darkgrey;
+  background-color: dimgrey;
   background: linear-gradient(to bottom right, white, lightgrey);
   background-size: 53% 100%;
   background-position: center;
-  border: 3px solid black;
   padding: 10px;
 }
 h1 {
