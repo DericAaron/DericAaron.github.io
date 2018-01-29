@@ -1,8 +1,8 @@
 body {
   margin: auto;
   width: 50%;
-  background-color: lightgrey;
-  background: linear-gradient(center, white);
+  background-color: darkgrey;
+  background: linear-gradient(to bottom right, white, lightgrey);
   background-size: 50% 100%;
   background-position: center;
   border: 3px solid black;
