@@ -13,10 +13,12 @@ h1 {
   color: black;
   text-align: left; 
   font: Palatino, serif; 
+  margin-bottom: 5px;
 }
 h2 {
   background-color: lightblue;
   font: Palatino, serif; 
+  margin-bottom: 5px;
 }
 h4 {
   margin-bottom: 5px;
