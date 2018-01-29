@@ -5,20 +5,19 @@ body {
   border: 3px solid black;
   padding: 10px;
 }
-div {
-  bottom-border: 2px solid black;
-}
 h1 {
   background-color: lightblue;
   color: black;
   text-align: left; 
   font: Palatino, serif; 
   margin-bottom: 5px;
+  bottom-border: 2px solid black;
 }
 h2 {
   background-color: lightblue;
   font: Palatino, serif; 
   margin-bottom: 5px;
+  bottom-border: 2px solid black;
 }
 h4 {
   margin-bottom: 5px;
