@@ -3,7 +3,7 @@ body {
   width: 50%;
   background-color: darkgrey;
   background-image: linear-gradient(to bottom right, white, antiquewhite);
-  background-size: 53% 98%;
+  background-size: 53% 100%;
   background-position: center;
   padding: 10px;
 }
