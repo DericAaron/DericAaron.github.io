@@ -2,7 +2,7 @@ body {
   margin: auto;
   width: 50%;
   background-color: darkgrey;
-  background: linear-gradient(to bottom right, white, antiquewhite);
+  background-image: linear-gradient(to bottom right, white, antiquewhite);
   background-size: 53% 100%;
   background-position: center;
   padding: 10px;
